@@ -15,7 +15,7 @@ Input Format
 Constraints
 <ul><li>1 <= L[i] <= 100</ul></li>
 Output Format
-<ul><li>Print the missing number in the list.</ul></li></p></i>
+<ul><li>Print the missing number in the list.</li></ul></p></i>
 3)
 4)
 5)
