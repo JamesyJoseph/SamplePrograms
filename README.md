@@ -35,4 +35,17 @@ Constraints
 Output Format
 <ul><li>Print the Nth fibonacci number.</ul></li>
 
-# 5)
+# 5) Non-Negative Product :
+<p><i>Alice has an array of N integers — A1,A2,…,AN. She wants the product of all the elements of the array to be a non-negative integer. That is, it can be either 0 or positive. But she doesn’t want it to be negative.
+<br>
+To do this, she is willing to remove some elements of the array. Determine the minimum number of elements that she will have to remove to make the product of the array’s elements non-negative.</i></p>
+Input Format
+<p>The first line of input will contain a single integer T, denoting the number of test cases.</p>
+<ul><li>The first line of each test case contains a single integer N — the number of elements in the array originally.</li></ul>
+<ul><li>The next line contains N space-separated integers — A1,A2,…,AN, which are the original array elements.</li></ul>
+Output Format
+<p><li>For each test case, output on a new line the minimum number of elements that she has to remove from the array.</li></p>
+Constraints
+<ul><li> 1≤T≤100</li>
+<li> 2≤N≤10000</li>
+<li>−1000≤Ai≤1000</li></ul>
