@@ -26,6 +26,13 @@ Constraints
 Output Format
 <ul><li>Print factorial of N.</li></ul></i>
 
-# 4)
+# 4) Compute Fibonacci Number :
+<p><i>For a given positive integer - N, compute Nth fibonacci number.</i></p>
+Input Format
+<ul><li>First and only line of input contains a positive number - N.</ul></li>
+Constraints
+<ul><li>1 <= N <= 20</ul></li>
+Output Format
+<ul><li>Print the Nth fibonacci number.</ul></li>
 
 # 5)
