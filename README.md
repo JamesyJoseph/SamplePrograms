@@ -16,6 +16,16 @@ Constraints
 <ul><li>1 <= L[i] <= 100</ul></li>
 Output Format
 <ul><li>Print the missing number in the list.</li></ul></p></i>
-3)
-4)
-5)
+
+# 3) Compute N!
+<p><i>Given a non-negative number - N, print N!</i></p>
+Input Format
+<ul><li>First and only line of input contains a number - N.</li></ul>
+Constraints
+<ul><li>0 <= N <= 10</li></ul>
+Output Format
+<ul><li>Print factorial of N.</li></ul></i>
+
+# 4)
+
+# 5)
